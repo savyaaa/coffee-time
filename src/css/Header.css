@@ -1,0 +1,463 @@
+@import url("https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap");
+.text-8 {
+  font-size: 153px;
+  letter-spacing: 6px;
+  line-height: 355px;
+  color: #ffffff;
+  font-weight: 400;
+  font-family: "Grand Hotel";
+}
+.wrapper-9 {
+  height: 2975px;
+  position: relative;
+  width: 100%;
+}
+.design {
+  left: 50%;
+  position: absolute;
+  top: 2917px;
+  width: 247px;
+  margin-left: -585px;
+}
+.button {
+  max-width: 247px;
+  min-height: 58px;
+  width: 247px;
+  background: url(images/vector_smart_object_doubl_23.png) no-repeat;
+  font-size: 33.33333px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 58px;
+  text-align: center;
+}
+.vector-smart-object-double-clik-to-edit {
+  left: 50%;
+  position: absolute;
+  top: 2560px;
+  margin-left: 569px;
+}
+.vector-smart-object-double-clik-to-edit-2 {
+  left: 50%;
+  position: absolute;
+  top: 2729px;
+  margin-left: -114px;
+}
+.mask {
+  left: 50%;
+  position: absolute;
+  top: 2466px;
+  margin-left: 42px;
+}
+.headline {
+  left: 50%;
+  position: absolute;
+  top: 2596px;
+  width: 338px;
+  margin-left: -586px;
+}
+.text-2 {
+  font-family: "Grand Hotel", handwriting;
+  font-size: 125px;
+  margin: 0;
+  letter-spacing: 0.04em;
+  line-height: 112.70834px;
+}
+.group-3 {
+  left: 0;
+  padding: 239px 0 0;
+  position: absolute;
+  top: 1454px;
+  width: 100%;
+}
+.l-constrained-5 {
+  margin: 0 auto;
+  padding: 0 46px;
+  position: relative;
+  width: 1440px;
+}
+.row-6 {
+  position: relative;
+}
+.vector-smart-object-double-clik-to-edit-3 {
+  float: left;
+  margin: 69px 1px 0 0;
+}
+.col-19 {
+  float: left;
+  position: relative;
+  width: 1253px;
+}
+.row-9 {
+  margin: 0 0 0 1px;
+  position: relative;
+  width: 1252px;
+}
+.mask-2 {
+  float: left;
+}
+.vector-smart-object-double-clik-to-edit-5 {
+  float: right;
+  margin: 342px 0 0;
+}
+.headline-2 {
+  float: right;
+  margin: 157px 30px 0 0;
+  width: 345px;
+  font-family: "Grand Hotel", handwriting;
+  font-size: 125px;
+  letter-spacing: 0.04em;
+  line-height: 112.70834px;
+  text-align: right;
+}
+.vector-smart-object-double-clik-to-edit-4 {
+  float: right;
+  margin: 95px 87px 0 0;
+}
+.row-10 {
+  margin: 4px 0 0;
+  position: relative;
+}
+.body {
+  float: left;
+  margin: 30px 0 0;
+  width: 611px;
+  font-size: 22.77289px;
+  line-height: 41.21065px;
+}
+.vector-smart-object-double-clik-to-edit-6 {
+  float: left;
+  margin: 64px 0 0 100px;
+}
+.button-2 {
+  float: left;
+  margin: 0 0 0 57px;
+  min-height: 58px;
+  width: 247px;
+  background: url(images/vector_smart_object_doubl_23.png) no-repeat;
+  font-size: 33.33333px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 58px;
+  text-align: center;
+}
+.vector-smart-object-double-clik-to-edit-7 {
+  display: block;
+  margin: 71px 0 0 245px;
+  position: relative;
+}
+.design-2 {
+  left: 0;
+  padding: 35px 0 41px;
+  position: absolute;
+  top: 759px;
+  width: 100%;
+  background: url(images/vector_smart_object_doubl_34.png) no-repeat center 0;
+  background-position: center top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.l-constrained-6 {
+  margin: 0 auto;
+  padding: 0 83px 0 135px;
+  position: relative;
+  width: 1440px;
+}
+.col-16 {
+  float: left;
+  margin: 76px 0 0;
+  position: relative;
+  width: 527px;
+}
+.vector-smart-object-double-clik-to-edit-8 {
+  display: block;
+  left: 216.5px;
+  margin: 0 auto;
+  position: relative;
+}
+.text-5 {
+  margin: 16px 0 0;
+  position: relative;
+  font-family: "Grand Hotel", handwriting;
+  font-size: 125px;
+  letter-spacing: 0.04em;
+  line-height: 112.70834px;
+}
+.row-11 {
+  margin: -25px 0 0;
+  position: relative;
+}
+.button-3 {
+  float: left;
+  margin: 90px 0 0;
+  min-height: 58px;
+  width: 247px;
+  background: url(images/vector_smart_object_doubl_35.png) no-repeat;
+  font-size: 33.33333px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 58px;
+  text-align: center;
+}
+.vector-smart-object-double-clik-to-edit-9 {
+  float: right;
+}
+.vector-smart-object-double-clik-to-edit-10 {
+  display: block;
+  margin: 121px 0 0 59px;
+  position: relative;
+}
+.col-17 {
+  float: right;
+  margin: 0 0 0 -9px;
+  position: relative;
+  width: 704px;
+}
+.row-7 {
+  left: 39px;
+  margin: 0 auto;
+  position: relative;
+  width: 626px;
+}
+.mask-3 {
+  float: left;
+  margin: 41px 9px 0 0;
+}
+.col-9 {
+  float: left;
+  position: relative;
+  width: 81px;
+}
+.vector-smart-object-double-clik-to-edit-11 {
+  display: block;
+}
+.vector-smart-object-double-clik-to-edit-12 {
+  display: block;
+  left: 5.5px;
+  margin: 361px auto 0;
+  position: relative;
+}
+.body-2 {
+  margin: 37px 0 0;
+  position: relative;
+  width: 633px;
+  font-size: 23.67431px;
+  line-height: 39.24318px;
+  text-align: right;
+}
+.group-1 {
+  height: 811px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.design-3 {
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 100%;
+}
+.l-unconstrained-3 {
+  overflow: hidden;
+  position: relative;
+}
+.l-constrained-8 {
+  margin: 0 auto;
+  position: relative;
+  width: 1440px;
+}
+.vector-smart-object-double-clik-to-edit-13 {
+  height: 3px;
+  margin: 0 0 0 57px;
+  position: relative;
+  width: 72px;
+  background-color: #29a19c;
+}
+.mask-4 {
+  display: block;
+  left: 353px;
+  margin: 57px auto 0;
+  margin-bottom: -1px;
+  position: relative;
+}
+.vector-smart-object-double-clik-to-edit-50 {
+  height: 204px;
+  margin: -158px 0 0;
+  position: relative;
+  width: 100%;
+  background: url(images/Vector\ Smart\ Object.png) no-repeat center 0;
+  background-position: center bottom;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.vector-smart-object-double-clik-to-edit-14 {
+  height: 204px;
+  margin: -158px 0 0;
+  position: relative;
+  width: 100%;
+  background: url(images/vector_smart_object_doubl_42.png) no-repeat center 0;
+  background-position: center top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.icon {
+  left: 50%;
+  position: absolute;
+  top: 114px;
+  width: 670px;
+  margin-left: -504px;
+}
+.vector-smart-object-double-clik-to-edit-15 {
+  display: block;
+  left: 305.5px;
+  margin: 0 auto;
+  position: relative;
+}
+.vector-smart-object-double-clik-to-edit-16 {
+  display: block;
+  left: 125.5px;
+  margin: 147px auto 0;
+  position: relative;
+}
+.vector-smart-object-double-clik-to-edit-17 {
+  display: block;
+  margin: 99px auto 0;
+  position: relative;
+  right: 98px;
+}
+.vector-smart-object-double-clik-to-edit-18 {
+  display: block;
+  margin: 140px 0 0;
+  position: relative;
+}
+.button-4 {
+  left: 50%;
+  margin: 0 0 0 -664px;
+  min-height: 58px;
+  position: absolute;
+  top: 491px;
+  width: 247px;
+  background: url(images/vector_smart_object_doubl_23.png) no-repeat;
+  font-size: 33.33333px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 58px;
+  text-align: center;
+  color: white;
+}
+
+#wh {
+  color: white;
+}
+.description-3 {
+  left: 50%;
+  position: absolute;
+  top: 397px;
+  width: 494px;
+  font-size: 14.59694px;
+  line-height: 23.97355px;
+  margin-left: -661px;
+}
+.headline-3 {
+  left: 50%;
+  position: absolute;
+  top: 348px;
+  font-size: 33.27581px;
+  font-weight: bold;
+  line-height: 32px;
+  text-align: center;
+  margin-left: -670px;
+}
+.text-8 {
+  left: 50%;
+  position: absolute;
+  font-family: "Grand Hotel", handwriting;
+  font-size: 153.14922px;
+  letter-spacing: 0.04em;
+  line-height: 203px;
+  margin-left: -667px;
+}
+.home {
+  left: 50%;
+  position: absolute;
+  top: -14px;
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  line-height: 25px;
+  text-align: center;
+  margin-left: -671px;
+  color: white;
+}
+.about {
+  left: 50%;
+  position: absolute;
+  top: -14px;
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  line-height: 25px;
+  text-align: center;
+  color: white;
+  margin-left: -541px;
+}
+.menu {
+  left: 50%;
+  position: absolute;
+  top: -14px;
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  line-height: 25px;
+  text-align: center;
+  color: white;
+  margin-left: -404px;
+}
+.blog {
+  left: 50%;
+  position: absolute;
+  top: -14px;
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  line-height: 26px;
+  text-align: center;
+  margin-left: -276px;
+  color: white;
+}
+.shop {
+  left: 50%;
+  position: absolute;
+  top: -14px;
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  line-height: 26px;
+  text-align: center;
+  margin-left: -163px;
+  color: white;
+}
+.contact {
+  left: 50%;
+  position: absolute;
+  top: -14px;
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  line-height: 25px;
+  text-align: center;
+  margin-left: -43px;
+  color: white;
+}
+.vector-smart-object-double-click-to-edit {
+  left: 50%;
+  position: absolute;
+  top: 0;
+  margin-left: 442px;
+}
